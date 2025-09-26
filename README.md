@@ -8,12 +8,19 @@ A modelagem de um sistema de controle de tráfego em uma interseção urbana com
 <p align="center">Figura 01: Representação Do Interseção</p>
 
 
-
 <p align="center">
   <img src="https://github.com/Danilo0liveira/HCPN_TRAFFIC_CONTROL/blob/main/figures/fila_semaforo.png?raw=true" alt="Logo" width="800"/>
 </p>
 
 <p align="center">Figura 02: Representação Da fila</p>
+
+
+<p align="center">
+  <img src="https://github.com/Danilo0liveira/HCPN_TRAFFIC_CONTROL/blob/main/figures/semaforo.png?raw=true" alt="Logo" width="800"/>
+</p>
+
+<p align="center">Figura 03: Representação Do Semaforo</p>
+
 
 
 
