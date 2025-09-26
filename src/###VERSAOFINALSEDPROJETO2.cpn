@@ -5382,7 +5382,7 @@
                 anchor.vertical="0"/>
         </marking>
         <type id="ID1423355918">
-          <posattr x="-171.000000"
+          <posattr x="-151.000000"
                    y="122.000000"/>
           <fillattr colour="White"
                     pattern="Solid"
@@ -5393,7 +5393,7 @@
           <textattr colour="Black"
                     bold="false"/>
           <text tool="CPN Tools"
-                version="4.0.1">UNIT</text>
+                version="4.0.1">PRIONIBUS</text>
         </type>
         <initmark id="ID1423355919">
           <posattr x="-154.000000"
@@ -6895,7 +6895,7 @@
           <textattr colour="Black"
                     bold="false"/>
           <text tool="CPN Tools"
-                version="4.0.1">1`()</text>
+                version="4.0.1">1</text>
         </annot>
       </arc>
       <arc id="ID1423548500"
@@ -7087,7 +7087,7 @@
           <textattr colour="Black"
                     bold="false"/>
           <text tool="CPN Tools"
-                version="4.0.1">1`()</text>
+                version="4.0.1">1</text>
         </annot>
       </arc>
       <arc id="ID1427624108"
@@ -7311,7 +7311,7 @@
           <textattr colour="Black"
                     bold="false"/>
           <text tool="CPN Tools"
-                version="4.0.1">1`()</text>
+                version="4.0.1">1</text>
         </annot>
       </arc>
       <constraints/>
@@ -15373,7 +15373,7 @@
                 anchor.vertical="0"/>
         </marking>
         <type id="ID1423931412">
-          <posattr x="-171.000000"
+          <posattr x="-151.000000"
                    y="122.000000"/>
           <fillattr colour="White"
                     pattern="Solid"
@@ -15384,7 +15384,7 @@
           <textattr colour="Black"
                     bold="false"/>
           <text tool="CPN Tools"
-                version="4.0.1">UNIT</text>
+                version="4.0.1">PRIONIBUS</text>
         </type>
         <initmark id="ID1423931413">
           <posattr x="-154.000000"
@@ -16886,7 +16886,7 @@
           <textattr colour="Black"
                     bold="false"/>
           <text tool="CPN Tools"
-                version="4.0.1">1`()</text>
+                version="4.0.1">1</text>
         </annot>
       </arc>
       <arc id="ID1423931465"
@@ -17078,7 +17078,7 @@
           <textattr colour="Black"
                     bold="false"/>
           <text tool="CPN Tools"
-                version="4.0.1">1`()</text>
+                version="4.0.1">1</text>
         </annot>
       </arc>
       <arc id="ID1427127989"
@@ -17302,7 +17302,7 @@
           <textattr colour="Black"
                     bold="false"/>
           <text tool="CPN Tools"
-                version="4.0.1">1`()</text>
+                version="4.0.1">1</text>
         </annot>
       </arc>
       <constraints/>
@@ -18035,7 +18035,7 @@
                 anchor.vertical="0"/>
         </marking>
         <type id="ID1423938169">
-          <posattr x="-171.000000"
+          <posattr x="-151.000000"
                    y="122.000000"/>
           <fillattr colour="White"
                     pattern="Solid"
@@ -18046,7 +18046,7 @@
           <textattr colour="Black"
                     bold="false"/>
           <text tool="CPN Tools"
-                version="4.0.1">UNIT</text>
+                version="4.0.1">PRIONIBUS</text>
         </type>
         <initmark id="ID1423938170">
           <posattr x="-154.000000"
@@ -19548,7 +19548,7 @@
           <textattr colour="Black"
                     bold="false"/>
           <text tool="CPN Tools"
-                version="4.0.1">1`()</text>
+                version="4.0.1">1</text>
         </annot>
       </arc>
       <arc id="ID1423938222"
@@ -19740,7 +19740,7 @@
           <textattr colour="Black"
                     bold="false"/>
           <text tool="CPN Tools"
-                version="4.0.1">1`()</text>
+                version="4.0.1">1</text>
         </annot>
       </arc>
       <arc id="ID1426432308"
@@ -19964,7 +19964,7 @@
           <textattr colour="Black"
                     bold="false"/>
           <text tool="CPN Tools"
-                version="4.0.1">1`()</text>
+                version="4.0.1">1</text>
         </annot>
       </arc>
       <constraints/>
@@ -31926,79 +31926,9 @@
       </option>
     </options>
     <binders>
-      <cpnbinder id="ID1421153834"
-                 x="484"
-                 y="206"
-                 width="1022"
-                 height="594">
-        <sheets>
-          <cpnsheet id="ID1412481467"
-                    panx="55.220313"
-                    pany="19.964063"
-                    zoom="0.963889"
-                    instance="ID1412480495">
-            <zorder>
-              <position value="0"/>
-            </zorder>
-          </cpnsheet>
-        </sheets>
-        <zorder>
-          <position value="0"/>
-        </zorder>
-      </cpnbinder>
-      <cpnbinder id="ID1424813649"
-                 x="91"
-                 y="140"
-                 width="1191"
-                 height="671">
-        <sheets>
-          <cpnsheet id="ID1424813638"
-                    panx="-92.000000"
-                    pany="9.000000"
-                    zoom="1.000000"
-                    instance="ID1417384590">
-            <zorder>
-              <position value="0"/>
-            </zorder>
-          </cpnsheet>
-          <cpnsheet id="ID1425155959"
-                    panx="-55.000000"
-                    pany="4.000000"
-                    zoom="1.000000"
-                    instance="ID1423931477">
-            <zorder>
-              <position value="0"/>
-            </zorder>
-          </cpnsheet>
-          <cpnsheet id="ID1425160145"
-                    panx="12.000000"
-                    pany="106.000000"
-                    zoom="1.000000"
-                    instance="ID1423938234">
-            <zorder>
-              <position value="0"/>
-            </zorder>
-          </cpnsheet>
-          <cpnsheet id="ID1425151776"
-                    panx="-112.800000"
-                    pany="46.200000"
-                    zoom="0.800000"
-                    instance="ID1423924732">
-            <zorder>
-              <position value="0"/>
-            </zorder>
-          </cpnsheet>
-        </sheets>
-        <zorder>
-          <position value="1"/>
-          <position value="3"/>
-          <position value="2"/>
-          <position value="0"/>
-        </zorder>
-      </cpnbinder>
       <cpnbinder id="ID1424809717"
-                 x="71"
-                 y="86"
+                 x="158"
+                 y="90"
                  width="1104"
                  height="600">
         <sheets>
@@ -32043,6 +31973,86 @@
           <position value="1"/>
           <position value="2"/>
           <position value="3"/>
+          <position value="0"/>
+        </zorder>
+      </cpnbinder>
+      <cpnbinder id="ID1421153834"
+                 x="704"
+                 y="330"
+                 width="1022"
+                 height="594">
+        <sheets>
+          <cpnsheet id="ID1412481467"
+                    panx="55.220313"
+                    pany="19.964063"
+                    zoom="0.963889"
+                    instance="ID1412480495">
+            <zorder>
+              <position value="0"/>
+            </zorder>
+          </cpnsheet>
+        </sheets>
+        <zorder>
+          <position value="0"/>
+        </zorder>
+      </cpnbinder>
+      <cpnbinder id="ID1424813649"
+                 x="93"
+                 y="125"
+                 width="1191"
+                 height="671">
+        <sheets>
+          <cpnsheet id="ID1425155959"
+                    panx="-55.000000"
+                    pany="4.000000"
+                    zoom="1.000000"
+                    instance="ID1423931477">
+            <zorder>
+              <position value="0"/>
+            </zorder>
+          </cpnsheet>
+          <cpnsheet id="ID1425160145"
+                    panx="12.000000"
+                    pany="106.000000"
+                    zoom="1.000000"
+                    instance="ID1423938234">
+            <zorder>
+              <position value="0"/>
+            </zorder>
+          </cpnsheet>
+          <cpnsheet id="ID1425151776"
+                    panx="-112.800000"
+                    pany="46.200000"
+                    zoom="0.800000"
+                    instance="ID1423924732">
+            <zorder>
+              <position value="0"/>
+            </zorder>
+          </cpnsheet>
+        </sheets>
+        <zorder>
+          <position value="0"/>
+          <position value="1"/>
+          <position value="2"/>
+        </zorder>
+      </cpnbinder>
+      <cpnbinder id="ID1428870141"
+                 x="139"
+                 y="97"
+                 width="1191"
+                 height="671">
+        <sheets>
+          <cpnsheet id="ID1424813638"
+                    panx="-63.200000"
+                    pany="24.800000"
+                    zoom="0.800000"
+                    instance="ID1417384590">
+            <zorder>
+              <position value="0"/>
+            </zorder>
+          </cpnsheet>
+        </sheets>
+        <zorder>
           <position value="0"/>
         </zorder>
       </cpnbinder>
