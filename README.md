@@ -39,5 +39,13 @@ Na Figura 04, tem-se o place ESTADO que vai representar parcialmente a cor do se
 <p align="center">Figura 04: Representação Do Semaforo</p>
 
 
+<p align = "center">  
+<img src="https://github.com/Danilo0liveira/HCPN_TRAFFIC_CONTROL/blob/main/figures/fila_gif.gif?raw=true" height="400"  />  
+</p>  
 
+
+
+<p align = "center">  
+<img src="https://github.com/Danilo0liveira/HCPN_TRAFFIC_CONTROL/blob/main/figures/semaforo_gif.gif?raw=true" height="400"  />  
+</p>  
 
