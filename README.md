@@ -46,6 +46,8 @@ Na Figura 04, tem-se o place ESTADO que vai representar parcialmente a cor do se
 </p>  
 
 
+Video Explicativo: https://youtu.be/q0O1elH_3Zk
+
 
 <p align = "center">  
 <img src="https://github.com/Danilo0liveira/HCPN_TRAFFIC_CONTROL/blob/main/figures/semaforo_gif.gif?raw=true" height="400"  />  
